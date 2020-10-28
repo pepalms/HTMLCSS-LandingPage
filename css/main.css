@@ -85,7 +85,7 @@ section{
 
 .nav-list{padding-left:0; width:575px; margin-top:10px;}
 
-li a.nav-list{ font-size: 16px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.2px;}
+.nav-list li a{ font-size: 16px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.2px;}
 
 .profile{margin-left:auto;}
 
