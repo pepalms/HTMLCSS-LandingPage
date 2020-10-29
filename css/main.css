@@ -221,7 +221,7 @@ footer:after{
 
 .lists{
     flex:0 0 75%;
-    padding: 15px 40px;
+    padding: 40px 15px;
 }
 
 .link-header{
@@ -255,7 +255,7 @@ footer a:hover{
 }
 
 .twitter{
- background-image: url('(../img/twitter.svg)');
+ background-image: url('../img/twitter.svg');
 }
 
 .facebook{
