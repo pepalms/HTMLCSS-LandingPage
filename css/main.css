@@ -141,6 +141,7 @@ section{
     bottom:30px;
     left:50px;
     right:50px;
+    z-index:1;
 }
 
 .full-banner-image{
@@ -152,7 +153,7 @@ section{
 }
 
 .full-banner-sidebar{
-    flex: 0 0 41.66666667%;
+    flex: 0 0 41.666667%;
     background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
